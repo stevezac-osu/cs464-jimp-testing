@@ -1,2 +1,3 @@
 output/*
 run_ts.js
+node_modules/*
